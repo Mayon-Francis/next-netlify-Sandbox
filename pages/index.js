@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Editing <code>pages/index.js</code>
+          Editing from local machine and testing if auto deploy works! <code>pages/index.js</code>
         </p>
       </main>
 
